@@ -1,4 +1,4 @@
-import java.io.*;
+import java.util.*;
 
 public class Solution {
     public static Scanner scan;
